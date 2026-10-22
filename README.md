@@ -89,3 +89,5 @@ Sugestão de sequência alinhada ao enunciado:
 7. Concluir com o que foi aprendido e com a ligação prevista ao sistema web.
 
 **Antes de entregar:** validar o nome do estudante, executar os scripts no SGBD usado na aula, capturar resultados reais e acrescentar ao README o link do vídeo e o link do repositório GitHub.
+
+**Link do video:** https://youtu.be/2W1NueKaXGE?si=9d93G7eCEaNQ7gfi
